@@ -15,14 +15,20 @@ The Collatz conjecture in mathematics asks whether repeating two simple arithmet
   </h2>
   <br/>
   
- 
+  
   this program works with command arguments so you need to run it from a terminal.<br/>
   command format for any number:<br/>
-  `python main.py <number>`
+  `python main.py <number>`<br/>
   if you want a graph too:<br/>
   `python main.py <number> graph`<br/>
   to use the help command:<br/>
   `python main.py help`
+  <br/>
+  this program will also save logs to a file called `function.txt`
+  <br/>
+  to use the program for any number (I will be using 32 here + a graph):<br/>
+  use the command: 'python main.py 32 graph'
+  <br/><br/>
+  <h2>Screen Shots</h2>
+  <br/>
   
-  to use the program for any number (I will be using 32 here):<br/>
-  use the command: 'python main.py 32'

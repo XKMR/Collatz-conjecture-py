@@ -31,7 +31,7 @@ The Collatz conjecture in mathematics asks whether repeating two simple arithmet
   <br/><br/>
   <h2>Screen Shots</h2>
   <br/>
-  ![image](https://user-images.githubusercontent.com/58393719/163450035-dae53d3e-4da7-402a-8e72-73112f340749.png)
+  <img src="screenshots/1.png" alt="First screenshot">
   <br/><br/>
-  ![image](https://user-images.githubusercontent.com/58393719/163450246-72ecc578-5850-465c-907f-a21b660c7876.png)
+  <img src="screenshots/2.png" alt="Second screenshot">
 

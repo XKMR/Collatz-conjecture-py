@@ -27,7 +27,9 @@ The Collatz conjecture in mathematics asks whether repeating two simple arithmet
   this program will also save logs to a file called `function.txt`
   <br/>
   to use the program for any number (I will be using 32 here + a graph):<br/>
-  use the command: 'python main.py 32 graph'
+  use the command: 'python main.py 32 graph'<br/>
+  if you thinks thats so hard to do, just open file and enter '2' to go<br/>
+  in the 'easy mode' (GUI mode)
   <br/><br/>
   <h2>Screen Shots</h2>
   <br/>
